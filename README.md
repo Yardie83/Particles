@@ -1,3 +1,4 @@
+# JavaFx Application Simulating Particle Movement
 A small JavaFX application created during a midterm project. 
 
 The user can spawn a variable amount of positively and negatively charged particles, which will then attract or repel one another depending on the charge
